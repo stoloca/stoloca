@@ -1,7 +1,7 @@
 ---
 title: "Notícias"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "stoloca na UFBA."
 sitemap: false
 permalink: /allnews.html
 ---
