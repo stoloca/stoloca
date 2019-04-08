@@ -1,7 +1,7 @@
 ---
 title: "stoloca - Home"
 layout: homelay
-excerpt: "stoloca na Universidade Federal da Bahia."
+excerpt: "stoloca na UFBA."
 sitemap: false
 permalink: /
 ---
