@@ -52,12 +52,15 @@ STOLOCA - Seminário de Teoria, Otimização LÓgica e CombinatóriA é mantido 
   </a>
 </div>
 
-Nos encontramos semanalmente na sala 101 do PAF-I a partir das 13:00.
+Se ligue nos nossos encontros semanais:
+  * **Sala:** 101 
+  * **Prédio:** Pavilhão de Aulas Federação (PAF-I)
+  * **Horário:** 13:00 - 14:00
 
  **Venha participar das nossas discussões e faça parte desse grupo ** 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ufba.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
