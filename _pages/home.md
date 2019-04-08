@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "stoloca - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "stoloca na Universidade Federal da Bahia."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Nós somos um grupo de estudantes e pesquisadores da [Universidade Federal da Bahia](http://www.ufba.br/). Nosso objetivo é discutir temas relacionados a teoria dos grafos, lógica, combinatória extremal, otimização e teoria da computação.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
