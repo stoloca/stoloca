@@ -2,32 +2,13 @@
   headline: "UMA ABORDAGEM BASEADA EM PROGRAMAÇÃO LÓGICA POR RESTRIÇÕES PARA O PROBLEMA DE ESCALONAMENTO E ROTEAMENTO DE ENFERMEIRAS <br>
 <b>Palestrante</b>: JÚLIA MADALENA MIRANDA CAMPOS (DCC-UFBA) <br>
 <b>Data</b>: 14 horas do dia 12 de abril (sexta-feira).<br>
-<b>Local</b>: Sala 101 - PAF I <br>
-<b>Resumo</b>: O Serviço de Atenção Domiciliar caracteriza-se como uma modalidade de assistência à saúde 
-composta por um conjunto de ações de prevenção, reabilitação e tratamento de doenças, prestadas em domicílio. 
-Esse serviço tem se tornado cada vez mais presente como ação de saúde complementar, substituindo a internação 
-hospitalar, pois oferece uma nova modalidade de atendimento as pessoas com quadro clínico estável que necessitam 
-de cuidados médicos. O Problema de Escalonamento e Roteamento de Enfermeiras consiste em determinar de forma 
-integrada a atribuição de profissionais de saúde a pacientes, juntamente com os percursos dos veículos que 
-transportarão os profissionais. Em geral, esse problema é resolvido de forma manual, tornando o processo 
-ineficiente e muitas vezes gerando resultados insatisfatórios. Esta dissertação apresenta um estudo de 
-caso realizado junto à equipe de Serviço de Atenção Domiciliar do Hospital Geral do Estado em Salvador, 
-com o objetivo de propor um modelo de Programação Lógica por Restrições para o Problema de Escalonamento 
-e Roteamento de Enfermeiras de modo a maximizar o número de pacientes atendidos e minimizar a distância 
-total percorrida pelos profissionais de saúde.  "
+<b>Local</b>: Sala 101 - PAF I  <br>"
 
 - date: 29. March 2019
   headline: "Utilizando probabilidade para análisar ciclos hamiltonianos arco-íris em grafos <br>
   <b>Palestrante</b>: Roberto Parente (Prof.  DCC-UFBA) <br>
   <b>Data</b>: 14 horas do dia 29 de março (sexta-feira) <br>
-  <b>Local</b>: Sala 101 - PAF I <br>
-  <b>Resumo</b>: Determinar a existência de um ciclo hamiltoniano em um grafo é conhecido como um 
-  problema NP-Difícil. Desta forma, é uma questão de pesquisa ativa o estudo da estrutura dos 
-  grafos que contêm ciclos hamiltonianos. Analisaremos o seguinte problema: Dada uma coloração 
-  própria das arestas em um grafo completo, é possível encontrarmos ciclos hamiltonianos arco-íris? 
-  O estudo sobre estruturas geradoras arco-íris nos leva a 200 (duzentos) anos atrás com a investigação 
-  de Euler sobre quadrados latinos. Apresentaremos um resultado de Alon, Pokroviskiy e Sudakov e 
-  focaremos em como podemos utilizar a probabilidade para resolver problemas demeterminísticos. "
+  <b>Local</b>: Sala 101 - PAF I <br>"
 
 - date: 08. October 2018
   headline: "We discovered charge trapping in a high-Tc superconductor! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>. 
