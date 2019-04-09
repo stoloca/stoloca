@@ -16,10 +16,18 @@ com o objetivo de propor um modelo de Programação Lógica por Restrições par
 e Roteamento de Enfermeiras de modo a maximizar o número de pacientes atendidos e minimizar a distância 
 total percorrida pelos profissionais de saúde.
 
-- date: 13. December 2018
-  headline: "Our paper about how to construct an STM is in 
-  <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>. 
-  <img src='/images/newspic/DomeNews.png' class='img-responsive' style='max-width: 192px' />"
+- date: 29. March 2019
+  headline: "Utilizando probabilidade para análisar ciclos hamiltonianos arco-íris em grafos" <br>
+  <b>Palestrante</b>: Roberto Parente (Prof.  DCC-UFBA) <br>
+  <b>Data</b>: 14 horas do dia 29 de março (sexta-feira) <br>
+  <b>Local</b>: Sala 101 - PAF I <br>
+  <b>Resumo</b>: Determinar a existência de um ciclo hamiltoniano em um grafo é conhecido como um 
+  problema NP-Difícil. Desta forma, é uma questão de pesquisa ativa o estudo da estrutura dos 
+  grafos que contêm ciclos hamiltonianos. Analisaremos o seguinte problema: Dada uma coloração 
+  própria das arestas em um grafo completo, é possível encontrarmos ciclos hamiltonianos arco-íris? 
+  O estudo sobre estruturas geradoras arco-íris nos leva a 200 (duzentos) anos atrás com a investigação 
+  de Euler sobre quadrados latinos. Apresentaremos um resultado de Alon, Pokroviskiy e Sudakov e 
+  focaremos em como podemos utilizar a probabilidade para resolver problemas demeterminísticos.
 
 - date: 08. October 2018
   headline: "We discovered charge trapping in a high-Tc superconductor! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>. 
