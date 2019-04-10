@@ -214,5 +214,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </tr>
 </table>
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+## Manutenção da página
+ Agradecimentos a quem ajuda a manter essa página viva:
+   * Tiago de Oliveira Januario
